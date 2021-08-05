@@ -15,7 +15,8 @@ String callGen(int year) =>  (year >= 1996) ? "Gen Z" : "Gen Y" ;
     }*/
     
   // การเช็คเงื่อนไข               T          F
-   
+
+  
    int callColor([String newColor= "Pink" ]){
      //                      0     1
     List<dynamic> color = ["Red","Blue","Black"];
